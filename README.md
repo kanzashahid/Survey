@@ -1,4 +1,6 @@
-# Ebiz
+# Survey
+
+A sample project to create a survey. The questions are not real. It was only to give the user an idea about how the survey would look like. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
